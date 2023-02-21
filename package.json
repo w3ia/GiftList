@@ -1,6 +1,7 @@
 {
   "name": "holiday-gift-list",
   "dependencies": {
+    "prompt-sync":  "^4.2.0",
     "axios": "^1.2.0",
     "ethereum-cryptography": "^1.1.2",
     "express": "^4.18.2"
